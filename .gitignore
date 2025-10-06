@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg
+*.whl
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# IDEs
+.idea/  # PyCharm
+.vscode/ # VSCode settings (can be more specific if needed)
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.coverage
+.tox/
+
+# Logs and temporary files
+*.log
+tmp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
